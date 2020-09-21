@@ -1,0 +1,52 @@
+.container {
+    width: 600px;
+    text-align: center;
+   
+}
+
+btnContainer {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.focusBreak {
+    margin: auto;
+    width: 200px;
+    background-color: #F66B6B;
+    color: white;
+    font-size: 26px;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+.clock {
+    margin: 0 auto;
+    max-width: 120px;
+    margin-right: 314px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 100px;
+    color: #333333;
+}
+
+.btn {
+    border: none;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    margin: 0px 10px;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+	border-bottom: none;
+	background-color: #F66B6B;
+	color: white;
+
+}
+
+.icon {
+    filter: invert(1);
+    margin-top: 1px;
+    width: 30px;
+}
