@@ -127,6 +127,7 @@ render() {
       </div>
       <div className = {style.container}>
       <Timer
+      isPlay = {this.state.isPlay}
       timerMinute = {this.state.timerMinute}
       breakLength = {this.state.breakLength}
       updateTimerMinute = {this.onUpdateTimerMinute}

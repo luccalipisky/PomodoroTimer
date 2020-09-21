@@ -106,7 +106,7 @@ class Timer extends React.Component {
                     </div>
                 </section>
                 <section className = {style.btnContainer}>
-                    <button className = {style.btn} onClick = {this.startTimer}> <img className = {style.icon} src = {play} alt = "" /></button>
+                    <button className = {style.btn} disabled = {this.props.isPlay} onClick = {this.startTimer}> <img className = {style.icon} src = {play} alt = "" /></button>
                     <button className = {style.btn} onClick = {this.stopTimer} > <img className = {style.icon} src = {stop} alt = ""/> </button>
                     <button className = {style.btn} onClick = {this.resetTimer}> <img className = {style.icon} src = {reset}alt = ""/></button>
                     { this.props.timerMinute === 0 && (this.state.timerSecond === 1 || this.state.timerSecond === 0 ) ? <Sound
