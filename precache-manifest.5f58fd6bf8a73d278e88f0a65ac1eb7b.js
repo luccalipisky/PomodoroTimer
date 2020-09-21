@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01898b28bbd52d164da468f7fc51f14e",
+    "revision": "3ac96b90e0281274dde014d5da13097a",
     "url": "/PomodoroTimer/index.html"
   },
   {
-    "revision": "d0ff19ef2009817e5491",
+    "revision": "447fe7df02b9d3196112",
     "url": "/PomodoroTimer/static/css/main.ae5791ea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PomodoroTimer/static/js/2.f72d3ebf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0ff19ef2009817e5491",
-    "url": "/PomodoroTimer/static/js/main.112b91c8.chunk.js"
+    "revision": "447fe7df02b9d3196112",
+    "url": "/PomodoroTimer/static/js/main.9d409f94.chunk.js"
   },
   {
     "revision": "bff7b314cba3548e6aae",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PomodoroTimer/static/media/reset.7b1b3b1f.svg"
   },
   {
-    "revision": "fe1072bedf153b53929b049e41fcc0f6",
-    "url": "/PomodoroTimer/static/media/stop.fe1072be.svg"
+    "revision": "e58915ce0f7742a43a0f2d703e8d2507",
+    "url": "/PomodoroTimer/static/media/stop.e58915ce.svg"
   },
   {
     "revision": "d8d435aac6f59bf8d80c051195fdc26f",
